@@ -1,6 +1,8 @@
-// Sloth image "IMG_3883" by JohnHedtke is licensed under CC BY-NC-SA 2.0 https://search.creativecommons.org/photos/217faedd-d06a-48ba-91f7-f4d4c6dafa04
-// Puppy image "puppies" by www.petian.net is licensed under CC BY-NC-ND 2.0  https://search.creativecommons.org/photos/4f271583-e45d-4faf-bfc8-7291c7c1e3c3
-// dinosaur "Rupenhorn Dinosaur #4" by Kristian_Laban is licensed under CC BY-NC 2.0 https://search.creativecommons.org/photos/96213ba5-e9b6-4f2f-91e4-da28b9fcad22
+//https://pixabay.com/photos/amalfi-coast-italy-positano-2180537/
+//https://pixabay.com/photos/panorama-the-cathedral-427997/
+//https://pixabay.com/photos/paris-france-eiffel-tower-night-1836415/
+//https://pixabay.com/photos/prague-praha-winter-night-3010407/
+//https://pixabay.com/photos/oia-santorini-village-greece-416135/
 
 
 var amalfi, barcelona, france, prague, santorini;
